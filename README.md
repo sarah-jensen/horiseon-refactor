@@ -11,11 +11,9 @@ N/A
 
 ## Usage
 
-View webpage for accuracy.
+View webpage to ensure consistency with pre-refactor version.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+![alt text](assets\images\01-html-css-git-homework-demo.png)
 
 ## Credits
 
