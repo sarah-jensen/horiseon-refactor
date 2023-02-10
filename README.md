@@ -13,7 +13,7 @@ N/A
 
 View webpage to ensure consistency with pre-refactor version.
 
-![alt text](assets\images\01-html-css-git-homework-demo.png)
+![deployed site](assets\images\01-html-css-git-homework-demo.png)
 
 ## Credits
 
